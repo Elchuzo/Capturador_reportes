@@ -1,0 +1,5 @@
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Libreria1\bin\Debug\netstandard2.0\Libreria1.deps.json
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Libreria1\bin\Debug\netstandard2.0\Libreria1.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Libreria1\obj\Debug\netstandard2.0\Libreria1.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Libreria1\obj\Debug\netstandard2.0\Libreria1.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Libreria1\obj\Debug\netstandard2.0\Libreria1.AssemblyInfo.cs

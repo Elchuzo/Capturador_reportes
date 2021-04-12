@@ -1,0 +1,157 @@
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avcodec-57.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avdevice-57.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avfilter-6.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avformat-57.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avutil-55.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\postproc-54.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swresample-2.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swscale-4.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Accord.dll.config
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe.config
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.pdb
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.dll
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.pdb
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.xml
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmAjustes.resources
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmDatos.resources
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmPrincipal.resources
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmSesion.resources
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.Properties.Resources.resources
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CopyComplete
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.exe
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.pdb
+C:\Users\Oscar\source\repos\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csprojAssemblyReference.cache
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avcodec-57.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avdevice-57.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avfilter-6.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avformat-57.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avutil-55.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\postproc-54.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swresample-2.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swscale-4.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Accord.dll.config
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe.config
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.pdb
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesome.Sharp.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.dll
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.pdb
+G:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.xml
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmAjustes.resources
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmDatos.resources
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmPrincipal.resources
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmSesion.resources
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.Properties.Resources.resources
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.GenerateResource.cache
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CoreCompileInputs.cache
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CopyComplete
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.exe
+G:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.pdb
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avcodec-57.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avdevice-57.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avfilter-6.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avformat-57.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avutil-55.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\postproc-54.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swresample-2.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swscale-4.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Accord.dll.config
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe.config
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.pdb
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesome.Sharp.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.dll
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.pdb
+F:\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.xml
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csprojAssemblyReference.cache
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmAjustes.resources
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmDatos.resources
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmPrincipal.resources
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmSesion.resources
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.Properties.Resources.resources
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.GenerateResource.cache
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CoreCompileInputs.cache
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CopyComplete
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.exe
+F:\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.pdb
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avcodec-57.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avdevice-57.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avfilter-6.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avformat-57.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\avutil-55.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\postproc-54.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swresample-2.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\swscale-4.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Accord.dll.config
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe.config
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.exe
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\Capturador_gastro_avances.pdb
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesome.Sharp.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.dll
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Controls.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Imaging.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Math.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\AForge.Video.DirectShow.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.pdb
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\bin\Release\FontAwesomeIcons.xml
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmAjustes.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmDatos.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmPrincipal.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmSesion.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.Properties.Resources.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.GenerateResource.cache
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CoreCompileInputs.cache
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csproj.CopyComplete
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.exe
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.pdb
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmReportes.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.frmCantidad.resources
+D:\Capturador Med Q\Capturador grabador\Capturador_gastro_avances\Capturador_gastro_avances\obj\Release\Capturador_gastro_avances.csprojAssemblyReference.cache

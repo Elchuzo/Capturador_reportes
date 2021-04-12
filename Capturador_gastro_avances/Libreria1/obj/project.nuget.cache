@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "STAIyoHVf9e/4b0zW5/6LIN08lCVV7Tj5G9kmtAS5MzekAYqxbJDW69WXb2UKWPYrpYnOCuTRWzRdpP5CJdoOQ==",
+  "success": true,
+  "projectFilePath": "G:\\Capturador_gastro_avances\\Libreria1\\Libreria1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abraham Jelkmann\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Abraham Jelkmann\\.nuget\\packages\\accord.video\\3.8.0\\accord.video.3.8.0.nupkg.sha512",
+    "C:\\Users\\Abraham Jelkmann\\.nuget\\packages\\accord.video.ffmpeg\\3.8.0\\accord.video.ffmpeg.3.8.0.nupkg.sha512",
+    "C:\\Users\\Abraham Jelkmann\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abraham Jelkmann\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Capturador_gastro_avances.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="folder_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">none</Value>
+    </Setting>
+    <Setting Name="Image_format" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jpg</Value>
+    </Setting>
+    <Setting Name="dispositivo_defecto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">indef</Value>
+    </Setting>
+    <Setting Name="entrada_defecto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">indef</Value>
+    </Setting>
+    <Setting Name="resolucion_defecto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">indef</Value>
+    </Setting>
+    <Setting Name="auto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
